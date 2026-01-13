@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cheap Shots & Setbacks X",
+  "base_artist": "As It Is",
+  "createdAt": "2026-01-13T09:52:49.426172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheap Shots",
+      "artist": "The Classic Crime",
+      "has_synced": true,
+      "path": "select/01_Cheap_Shots_The_Classic_Crime.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheap Shots & Setbacks",
+      "artist": "As It Is",
+      "has_synced": true,
+      "path": "select/02_Cheap_Shots_&_Setbacks_As_It_Is.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheap Shots",
+      "artist": "Holy Ghost!",
+      "has_synced": true,
+      "path": "select/03_Cheap_Shots_Holy_Ghost!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheap Shots",
+      "artist": "Seth Sentry",
+      "has_synced": false,
+      "path": "select/04_Cheap_Shots_Seth_Sentry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheap Shots & Setbacks (acoustic)",
+      "artist": "As It Is",
+      "has_synced": false,
+      "path": "select/05_Cheap_Shots_&_Setbacks_(acoustic)_As_It_Is.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheap Shots & Setbacks",
+      "artist": "As It Is",
+      "has_synced": true,
+      "path": "select/06_Cheap_Shots_&_Setbacks_As_It_Is.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheap Shots & Setbacks",
+      "artist": "As It Is",
+      "has_synced": true,
+      "path": "select/07_Cheap_Shots_&_Setbacks_As_It_Is.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheap Shots",
+      "artist": "The Classic Crime",
+      "has_synced": true,
+      "path": "select/08_Cheap_Shots_The_Classic_Crime.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheap Shots",
+      "artist": "Richie Kotzen",
+      "has_synced": true,
+      "path": "select/09_Cheap_Shots_Richie_Kotzen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheap Shots, Youth Anthems",
+      "artist": "The Wonder Years",
+      "has_synced": true,
+      "path": "select/10_Cheap_Shots,_Youth_Anthems_The_Wonder_Years.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mean Thoughts And Cheap Shots",
+      "artist": "The Rocket Summer",
+      "has_synced": false,
+      "path": "select/11_Mean_Thoughts_And_Cheap_Shots_The_Rocket_Summer.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheap Shots, Youth Anthems (Originally by Kid Dynamite)",
+      "artist": "The Wonder Years",
+      "has_synced": true,
+      "path": "select/12_Cheap_Shots,_Youth_Anthems_(Originally_by_Kid_Dynamite)_The_Wonder_Years.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mean Thoughts And Cheap Shots",
+      "artist": "The Rocket Summer",
+      "has_synced": true,
+      "path": "select/13_Mean_Thoughts_And_Cheap_Shots_The_Rocket_Summer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheap Shots, Young Anthems",
+      "artist": "The Wonder Years",
+      "has_synced": true,
+      "path": "select/14_Cheap_Shots,_Young_Anthems_The_Wonder_Years.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mean Thougts and Cheap Shots",
+      "artist": "The Rocket Summer",
+      "has_synced": true,
+      "path": "select/15_Mean_Thougts_and_Cheap_Shots_The_Rocket_Summer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheap Shots & Setbacks",
+      "artist": "As It Is",
+      "has_synced": false,
+      "path": "select/pl_01_Cheap_Shots_&_Setbacks_As_It_Is.txt"
+    }
+  ]
+}
